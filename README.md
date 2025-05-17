@@ -1,8 +1,6 @@
-# Project #3: Experiements with Hashing
+# Experiements with Hashing
 
 * Author: Karter Melad
-* Class: CS321 Section #001
-* Semester: Fall 2023
 
 ## Overview
 
